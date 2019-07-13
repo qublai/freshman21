@@ -13,7 +13,7 @@ locale: en_US
 Google Scholar: https://scholar.google.com.pk/citations?user=WvGmiNsAAAAJ&hl=en
 github_username:  qublai
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: I am currently a Lecturer in Cyber Security at the University of Gloucestershire, UK. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/pro.png"# your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
