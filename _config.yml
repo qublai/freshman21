@@ -14,7 +14,7 @@ Google Scholar: https://scholar.google.com.pk/citations?user=WvGmiNsAAAAJ&hl=en
 github_username:  qublai
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme_photo: "/images/pro.png"# your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
