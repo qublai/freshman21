@@ -10,11 +10,11 @@ url: "https://yulijia.net/freshman21" # the base hostname & protocol for your si
 locale: en_US
 
 ### Personal info and site tools info:
-Google Scholar: https://scholar.google.com.pk/citations?user=WvGmiNsAAAAJ&hl=en
+Scholar: https://scholar.google.com.pk/citations?user=WvGmiNsAAAAJ&hl=en
 github_username:  qublai
 favicon:     "/images/favicon.ico"
-aboutme: I am currently a Lecturer in Cyber Security at the University of Gloucestershire, UK. # these are shown on aboutme-sidebar.
-aboutme_photo: "/images/pro.png"# your photo.
+aboutme: I am a Lecturer and Researcher in Cyber Security at the University of Gloucestershire, UK. # these are shown on aboutme-sidebar.
+aboutme_photo: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/26239851_10160136790310227_5990870846465030753_n.jpg?_nc_cat=104&_nc_oc=AQnMtOkxZ2o7ByToyPDvlidKJLqsA5KxFXrdnakHla21qUtqKyCxrK6sV6BLU6LjWHc&_nc_ht=scontent-lhr3-1.xx&oh=fbf9595395e7765c04c46f5403c8418f&oe=5DA92193"# your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
